@@ -8,7 +8,7 @@ Small nonprofits often face capacity constraints when searching for institutiona
 
 The tool focuses on Pennsylvania-based foundations with annual giving above approximately $1 million and uses historical grant data to match nonprofits with funders based on thematic relevance, geographic alignment, and grant-size fit.
 
-##Live tool
+## Live tool
 
 - https://nonprofit-funder-discovery.vercel.app/ 
 
